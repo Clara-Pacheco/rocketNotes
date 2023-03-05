@@ -1,9 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+
 import { ThemeProvider } from 'styled-components' // irá prover um tema
 import theme from './styles/theme'
-import { Details } from './pages/Details'
+
 import GlobalStyles from './styles/global'
+import { Details } from './pages/Details'
+
 
 
 // por padrão, quando não dizemos qual arquivo queremos carregar,

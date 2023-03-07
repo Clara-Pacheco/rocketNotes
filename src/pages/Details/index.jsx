@@ -12,12 +12,8 @@ export function Details(){
   return (
   
   <Container>
-    <h1>Hello World </h1>
-    <span>Clara Pacheco</span>
+   
 
-    <Button />
-    <Button />
-    <Button />
     <Button />
   </Container>
 
